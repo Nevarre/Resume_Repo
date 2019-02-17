@@ -10,9 +10,9 @@ This repo includes the resumes of the following people:
 * I am currently the Deputy Director of the Parks and Recreation Department of Pawnee, Indiana. In this position, I successfully turned a dangerous pit into a beautiful community park called the Pawnee Commons. I absolutely love my job! I believe that the three most important things in life are friends, waffles, and work... or I mean, waffles, friends, and work. I am just an example of what you need to do, so please delete me before turning your project in.
 * Jobs interested in: City Councilwoman, Midwest Regional Director of the National Parks Service, Governor of Indiana
 
-###### [Name of Person that Resume 1 is about]
-* 5 sentence summary describing the person from Resume 1.
-* Jobs interested in: [List 3 jobs titles that this person is looking for. Be relevant and creative!]
+###### Jiani Chen ^M 
+* Physics major currently attending UC Berkeley. Aiming to leverage technical, problem-solving, and creative thinking skills in a mentally stimulating and challenging work environment. I'm currently doing undergraduate research on the Compton Spectrometer and Imaging (COSI) project. This instrument is designed to study astrophysical sources of nuclear line emission and gamma-ray polarization by studying the scattering patterns of particle interactions using Germanium detectors. My job is to improve the performance of Monte-Carlo simulations that is used as an analysis tool for X-ray and gamma-ray detectors. By improving the speed of the simulations and reducing the size of data gained from the simulation, it will dramatically enhance the research process of using the simulator. ^M
+* Jobs interested in: Physics research assistant, data analyst, software engineering ^M
 
 ###### [Name of Person that Resume 2 is about]
 * 5 sentence summary describing the person from Resume 2.
