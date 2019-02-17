@@ -14,9 +14,9 @@ This repo includes the resumes of the following people:
 * 5 sentence summary describing the person from Resume 1.
 * Jobs interested in: [List 3 jobs titles that this person is looking for. Be relevant and creative!]
 
-###### [Name of Person that Resume 2 is about]
-* 5 sentence summary describing the person from Resume 2.
-* Jobs interested in: [List 3 job titles that this person is looking for. Be relevant and creative!]
+###### [Lillian Gage]
+* Lillian Gage is a Senior at UC Berkeley. She is a Political Science Major. She will be graduating this December. Her studies focus on Comparative Politics and Political Economy. Before she graduates she hopes to learn more quantitative skills that will prepare her for a career in Policy Research and Analysis.
+* Jobs interested in: [Policy Analyst, Policy Researcher, Policy Advocate}
 
 ###### [Name of Person that Resume 3 is about]
 * 5 sentence summary describing the person from Resume 3.
