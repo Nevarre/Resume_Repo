@@ -1,0 +1,120 @@
+% Jiani Chen
+% Data Science Decal, Spring 2019
+% Project 1: Resume Repo
+% This project is to write a resume using LaTex. 
+%
+% Due: Wednesday, February 20th, by 10pm.
+
+
+\documentclass{resume} % Use the custom resume.cls style
+
+\usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry} % Document margins
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{Jiani Chen} % Your name
+\address{(415)9xx-xxxx \\ jianichen.jan@gmail.com} % Your phone number and email
+\address{San Francisco, 94133  }% Your address
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Education}
+
+{\bf University of California, Berkeley} \hfill {\em June 2018 - Present} 
+\\ Bachelor of Physics\\
+   {\it Relevant Coursework: \\
+   -Numerical Analysis \\
+   -Computational Techniques and Data Science in Physics \\
+   -Advanced Instrumental Laboratory}\\
+{\bf City College of San Francisco} \hfill {\em August 2015 - May 2018} 
+\\ Associates of Physics and Associates of Mathematics\hfill
+\\ AGS Honors Society
+\\ {\it Relevant Coursework: \\
+   -Introduction to C++ Programming \\
+   -Python Programming }\\
+   
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	RESEARCH SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Research Experience}
+
+\begin{rSubsection}{Berkeley Institute of Data Science, UC Berkeley}{\em January 2019 - Present}{Undergraduate Research Assistant}{}
+\item Optimize Monte-Carlo simulation code to run faster on the Cori supercomputer
+\item Reformat data output into most optimal binary format. 
+\end{rSubsection}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	CAREER OBJECTIVE SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Carrier Objective}
+
+Physics major currently attending UC Berkeley. Aiming to leverage technical, problem-solving, and creative thinking skills in a mentally stimulating and challenging work environment.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	TECHNICAL STRENGTHS SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Technical Strengths}
+
+\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
+Programming Languages \ & Proficiency in Python, C++, SQL,  \\
+Software \& Tools & MS Office, Latex, Matlab, Linux\\
+Languages \ & Fluent Chinese (Cantonese), Beginner Japanese  \\
+\end{tabular}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Work Experience}
+
+\begin{rSubsection}{City College of San Francisco, San Francisco}{August 2016 - May 2018}{Physics Tutor}{}
+\item Developed studying strategies with students along with University level Physics homework tutoring.
+\end{rSubsection}
+
+\begin{rSubsection}{City College of San Francisco, San Francisco}{August 2017 - May 2018}{Teaching Assistant}{}
+\item Graded weekly homework assignments for a total of 100 students. Provided students with constructive feedback on assignments.
+\end{rSubsection}
+
+\begin{rSubsection}{Walgreen's, San Francisco}{February 2015 - January 2016}{Sales Associate}{}
+\item Provided customer service, maintained store by ordering and restocking products, and kept cleanliness and organization of store.
+\end{rSubsection}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% Extra Curricular
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Extra-Curricular} \itemsep -3pt
+
+\item Volunteer - AGS Honors Society at City College of San Francisco
+\item Educational Program Intern - 826 Valencia, San Francisco
+\item Art Curator - San Francisco Skate Club
+\item Community Volunteer - Thrive House Foundation
+\item Program Development Intern - StreetSide Stories Youth Program
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}
+
+\centering \em References available upon request.
+
+\end{rSection}
+
+\end{document}
