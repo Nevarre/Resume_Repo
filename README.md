@@ -14,9 +14,9 @@ This repo includes the resumes of the following people:
 * Physics major currently attending UC Berkeley. Aiming to leverage technical, problem-solving, and creative thinking skills in a mentally stimulating and challenging work environment. I'm currently doing undergraduate research on the Compton Spectrometer and Imaging (COSI) project. This instrument is designed to study astrophysical sources of nuclear line emission and gamma-ray polarization by studying the scattering patterns of particle interactions using Germanium detectors. My job is to improve the performance of Monte-Carlo simulations that is used as an analysis tool for X-ray and gamma-ray detectors. By improving the speed of the simulations and reducing the size of data gained from the simulation, it will dramatically enhance the research process of using the simulator. 
 * Jobs interested in: Physics research assistant, data analyst, software engineering 
 
-###### [Name of Person that Resume 2 is about]
-* 5 sentence summary describing the person from Resume 2.
-* Jobs interested in: [List 3 job titles that this person is looking for. Be relevant and creative!]
+###### [Lillian Gage]
+* Lillian Gage is a Senior at UC Berkeley. She is a Political Science Major. She will be graduating this December. Her studies focus on Comparative Politics and Political Economy. Before she graduates she hopes to learn more quantitative skills that will prepare her for a career in Policy Research and Analysis.
+* Jobs interested in: [Policy Analyst, Policy Researcher, Policy Advocate}
 
 ###### [Name of Person that Resume 3 is about]
 * 5 sentence summary describing the person from Resume 3.
