@@ -1,0 +1,90 @@
+\documentclass{resume} % Use the custom resume.cls style
+\usepackage{setspace}
+
+\usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry} % Document margins
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{Eva Newsom} % Your name
+\address{502 38th Street, Newport Beach CA 92663} % Your address
+%\address{123 Pleasant Lane \\ City, State 12345} % Your secondary addess (optional)
+\address{9493759078 \\ evanewsom1@gmail.com} % Your phone number and email
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Education}
+
+{\bf University of California, Berkeley, School of Letters and Sciences} \hfill 
+{\em August 2017 - Present} 
+\\ Candidate for Bachelor of Arts
+\\ Intended Major: Data Science, Intended Minor: Computer Science
+\\ GPA: 3.41
+
+\end{rSection}
+%--------------------------------------------------------------------------------
+%    Projects And Seminars
+%-----------------------------------------------------------------------------------------------
+\begin{rSection}{Projects - University Coursework}
+
+{\bf Amazons Game}
+\begin{itemize}
+    \itemsep-0.75em 
+    \item Mimicked the Game of the Amazons in Java
+    \item Utilized game tree minimax algorithm to develop artificial intelligent machine player
+    \item Constructed the game’s board with and held player’s moves in multidimensional arrays
+    \item Created unique tests through JUnit testing for development
+\end{itemize}
+
+\\{\bf Fun with Graphs}
+\begin{itemize}
+    \itemsep-0.75em 
+    \item Wrote a library package in Java to provide facilities for manipulating graphs, unspecific to the clients
+    \item Created two clients that use the package, Make, which worked as a stripped down version of the GNU Make Program and Trip Finder, which, given a map and a destination, gave a shortest route 
+    \item Implemented graph search algorithms such as Dijkstra's and A*
+\end{itemize}
+
+\end{rSection}
+%----------------------------------------------------------------------------------------
+%	TECHNICAL STRENGTHS SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Skills}
+
+\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
+Programming Langauges: \ & {\bf Experienced:} Python, Java, {\bf Familiar:} Scheme, SQL \\
+Software \& Tools & {\bf Experienced:} IntelliJ IDEA, Git {\bf Familiar:} Salesforce CRM\\
+\end{tabular}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Work Experience}
+
+\begin{rSubsection}{{\bf Veritone, Inc.} - Newport Beach, CA}{Mar 2017 - July 2017}{Marketing Intern}{}
+\item Interned under Marketing Vice President, Digital Marketing Manager, and Events and Product Marketing Manager. Social Media content contributor, and corporate event assistant coordinator. Curated articles and created event dashboards in Salesforce CRM.
+\end{rSubsection}
+
+\begin{rSubsection}{{\bf Peninsula Point Racquet Club} - Newport Beach, CA}{July 2015 - Aug 2015}{Summer Camp Tennis Coach}{}
+\item Coached children ages 5 to 10 in beginner to intermediate level tennis. Personally managed groups of young children in a disciplined manner.
+
+\end{rSubsection}
+
+\end{rSection}
+%----------------------------------------------------------------------------------------
+% Extra Curricular
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Extra-Cirrucular} \itemsep -3pt
+\item Alpha Chi Omega Sorority, Assistant to Vice President of New Member Education
+\item Alpha Chi Omega Sorority, Chapter Relations and Standards Board Member
+\item YWCA techGYRLS Volunteer
+\item Girls Inc. of Orange County Volunteer
+\item Girls Varsity Tennis Captain 
+
+\end{rSection}
+\end{document}
