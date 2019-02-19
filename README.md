@@ -18,12 +18,11 @@ This repo includes the resumes of the following people:
 * Lillian Gage is a Senior at UC Berkeley. She is a Political Science Major. She will be graduating this December. Her studies focus on Comparative Politics and Political Economy. Before she graduates she hopes to learn more quantitative skills that will prepare her for a career in Policy Research and Analysis.
 * Jobs interested in: [Policy Analyst, Policy Researcher, Policy Advocate}
 
-###### [Name of Person that Resume 3 is about]
-* 5 sentence summary describing the person from Resume 3.
-* Jobs interested in: [List 3 job titles that this person is looking for. Be relevant and creative!]
+###### [Eva Newsom]
+* Eva Newsom is a sophomore at UC Berkeley studying Data Science. She hopes to gain a Computer Science minor as well. She is currently working with the Human Context and Ethics in Data Division at Berkeley to strive for more integration of ethics wihtin UC Berkeley Computer and Data Science curriculum. She is currently enrolled in a program for a Global Internship this summer, with the intent of working at a tech company in Singapore.    
+* Jobs interested in: [Data Analyst, Software Engineer, Data Engineer]
 
 ###### [(If you have a 4th team member, otherwise delete this entire section) Name of Person that Resume 4 is about]
 * 5 sentence summary describing the person from Resume 4.
 * Jobs interested in: [List 3 job titles that this person is looking for. Be relevant and creative!]
-
 
